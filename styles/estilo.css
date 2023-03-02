@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(156, 69, 69);
+}
+
+h1{ 
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+.pizzas1, .pizzas2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-weight: bold;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.pizzas2{
+   margin-top: 30px;
+   padding: 0px;
+
+}
+img{
+    height: 500px;
+    width: 500px;
+}
